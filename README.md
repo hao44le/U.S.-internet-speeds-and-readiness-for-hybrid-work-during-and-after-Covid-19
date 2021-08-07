@@ -18,3 +18,6 @@
 * **speed_fixed_2021_q1.ipynb** is used to compute the final results for fixed(WIFI) 2021 Q1 results
 * **speed_mobile_2020_q1.ipynb** is used to compute the final results for mobile 2020 Q1 results
 * **speed_mobile_2021_q1.ipynb** is used to compute the final results for mobile 2021 Q1 results
+
+### SCS Analysis 
+* zipcodePriceSCSanalysis.csv
